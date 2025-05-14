@@ -10,10 +10,10 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 |--------------|-----------------------------------|--------------------------------------------------------------|-----------------------------|
 | Sep 6, 2024  | Smart India Hackathon (Internal)  | Internal round organized by Future Institute of Technology   | 🥇 1st Place (Team Byte Busters) |
 | Jan 23, 2025 | J.ai                              | 6-month internship in the Product Department                 | Intern                      |
-| 2024         | Hackspire 2024                    | Technical event at [Future Institute of Engineering and Management]              | Participant /     |
-| 2024         | Praxis 24                         | [Google Developer Groups on Campus Praxis 24 ]                                      | Participant /   |
-| 2024         | EY Techathon 5.0                  | Round 1 – Executive Summary submission                       | Participant                 |
-| 2024         | Skill Development Program         | Skill Development and Internship Programme                   | Participant / Intern        |
+| 2024         | Hackspire 2024                    | Technical event at [Future Institute of Engineering and Management]              | Participant |
+| 2024         | Praxis 24                         | [Google Developer Groups on Campus Praxis 24 ]                                      | Participant |
+| 2024         | EY Techathon 5.0                  | Round 1 – Executive Summary submission                       | Participant |
+| 2024         | Skill Development Program         | Skill Development and Internship Programme                   | Participant / Intern |
 
 ---
 
