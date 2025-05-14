@@ -30,5 +30,5 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 
 ---
 
-## 📁 Repository Structure
+
 
