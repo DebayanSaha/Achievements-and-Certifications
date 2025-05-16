@@ -23,7 +23,7 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | EY Techathon 5.0 – Participation                      | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/EY%20Techathon%205.0.pdf) |
 | Smart India Hackathon 2024 – 1st Place (Byte Busters) | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/SIH_Internal_Certificate-16%5B1%5D.pdf) |
-| J.ai – Internship Offer Letter                        | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/J.ai_Internship_Offer_Letter_Debayan.pdf) |
+| J.ai – Internship Offer Letter                        | [🔗 View] |
 | Hackspire 2024 – [Add Role]                           | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/Hackspire%202024.jpeg) |
 | Praxis 24 – [Add Role]                                | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/Praxis%2024.jpg) |
 | Skill Development and Internship Programme            | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/Skill%20Development%20and%20Internship%20Programme.pdf) |
