@@ -14,7 +14,8 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 | 2024         | Praxis 24                         | [Google Developer Groups on Campus Praxis 24 ]                                      | Participant |
 | 2024         | EY Techathon 5.0                  | Round 1 – Executive Summary submission                       | Participant |
 | 2024         | Skill Development Program         | Skill Development and Internship Programme                   | Participant / Intern |
-| 2025         | Adobe India Hackathon         | participated in Round 1 Online MCQ Assessment +                                                  Coding of Adobe India Hackathon organised by                                                      Adobe.                   
+| 2025         | Adobe India Hackathon         | participated in Round 1 Online MCQ Assessment +                                                  Coding of Adobe India Hackathon organised by                                                      Adobe.    
+                | Participant / Intern |
 
 ---
 
