@@ -17,6 +17,7 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 | 2025         | Adobe India Hackathon                      | Participated in Round 1 Online MCQ Assessment + Coding Round                     | Participant / Intern             |
 | 2025         | Agentic AI Day – Google Cloud x Hack2Skill | Recognized for initiative and contribution; submitted an innovative idea         | Participant                      |
 | 2025         | A2HackFest – XOR                           | Recognized for creativity, innovation & contribution; selected as a **Finalist** | **Finalist**                     |
+| 2025         | SIH'25 Finalist                            | Selected as finalist among 68,766 teams nationwide, under a Government of Odisha | **Finalist**                     |
 
 ---
 
