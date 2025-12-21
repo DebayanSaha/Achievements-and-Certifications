@@ -34,5 +34,6 @@ Welcome to my official GitHub repository for all verified **achievements**, **ce
 | Adobe India Hackathon                                 | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/Adobe-India-Hackathon.pdf)                              |
 | Agentic AI Day – Participation                        | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/Hack2skill-Certificate.png)                             |
 | A2HackFest – Finalist (Team XOR)                      | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/A2HackFest_Certificate_XOR.pdf)                         |
+| Smart India Hackathon 2025 - Finalist                 | [🔗 View](https://github.com/DebayanSaha/Achievements-and-Certifications/blob/main/SIH25.jpg)                                              |
 
 ---
